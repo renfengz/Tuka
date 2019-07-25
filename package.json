@@ -2,7 +2,7 @@
   "name": "tuka",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://tukaglobal.github.io/tuka-MVP-prototype/",
+  "proxy": "https://github.com/renfengz/Tuka.git",
   "dependencies": {
     "@kapost/react-component-slider": "^1.0.5",
     "axios": "^0.19.0",
@@ -42,7 +42,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tukaglobal.github.io/tuka-MVP-prototype/",
+  "homepage": "https://renfengz.github.io/Tuka/",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
